@@ -1,1 +1,1 @@
-# 5-player-quiz-buzzer-using-Arduino
+# 5 player quiz buzzer using Arduino
