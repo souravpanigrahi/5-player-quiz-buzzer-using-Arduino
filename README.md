@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/77490864/232322358-a663cd08-69f2-48fe-8282-5dab03603d23.png)
 
-![video](https://www.awesomescreenshot.com/video/16561254?key=b5df9310a8b7f865621bb435fa4c32d5.mp4)
+![video](https://user-images.githubusercontent.com/77490864/232322663-64061b15-d7c0-4d06-857f-81949f188349.mp4)
 
 On pressing any one of the 5 buttons :
 
