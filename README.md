@@ -1,6 +1,8 @@
 # 5 player quiz buzzer using Arduino
 `Working prototype`: 🔗 [Tinker this](https://www.tinkercad.com/things/8ZRHmhHDFEg?sharecode=L5AYspVZV_MCIqql2v_Jkn6_4cMVu930idI9_kTZSSo)
 
+![image](https://user-images.githubusercontent.com/77490864/232322358-a663cd08-69f2-48fe-8282-5dab03603d23.png)
+
 
 On pressing any one of the 5 buttons :
 
