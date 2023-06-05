@@ -20,5 +20,5 @@ On pressing any one of the 5 buttons :
  
 The selected button, leads to its corresponding LED to start blinking and the Piezo Buzzer starts buzzing `(making sound)` 
  
-# NOTE: No other LEDs work until the current LED has finished blinking 
+# NOTE: No other LEDs work until the current LED has finished blinking.
  
